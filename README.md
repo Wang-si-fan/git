@@ -1,2 +1,2 @@
-# ptychography 
+# ptychography demo
 
